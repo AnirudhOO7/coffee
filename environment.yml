@@ -1,0 +1,10 @@
+name: coffee_dashboard
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - dash
+  - pandas
+  - numpy
+  - plotly
